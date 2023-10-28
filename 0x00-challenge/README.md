@@ -1,9 +1,4 @@
-# Fix my code
+# Fix_My_Code_Challenge
 
-The first set of debugging challenges. Involved bugged programs written in
-Python, Javascript, Ruby and C.
 
-## Tasks
-
-* **0. FizzBuzz**
-  * [0-fizzbuzz.py](./0-fizzbuzz.py): Python implementation of FizzBuzz.
+![](https://media.geeksforgeeks.org/wp-content/cdn-uploads/20200305191534/How-to-Approach-a-Coding-Problem.png)
